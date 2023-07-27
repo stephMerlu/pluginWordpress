@@ -1,0 +1,265 @@
+/* teczilla consulting theme css */
+
+@media screen and (min-width: 992px){
+	.main-navigation #primary-menu {    
+		padding-right: 0px !important;
+		padding-bottom: 10px;
+	}
+}
+
+/* navigation style */
+
+
+ .wp-caption, 
+ .wp-caption-text, .bypostauthor  
+ .alignright, .alignleft,
+ .aligncenter{
+
+ }
+.sub-menu li{
+	padding-bottom: 0px;
+}
+@media screen and (min-width: 992px){
+	.main-navigation a {
+		padding: 10px 15px;
+	}
+	.menu-item-has-children>a:after {	   
+		right: 0px;		
+		content: "\f067";
+		top: 40px;
+    	font-size: 11px !important;
+	}
+	.sub-menu > .menu-item-has-children>a:after {
+
+		content: "\f067" !important;
+
+
+}
+}
+
+
+/* Home slider */
+.home-slider::after {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 0;
+    opacity: 0.15;
+    background: #000;
+}
+.home-slider .container .slider-caption:after{
+	background-color:transparent !important
+}
+
+
+@media screen and (min-width: 768px){
+	.home-slider .container .slider-caption {
+		padding: 50px 50px 50px;
+		min-width: 800px;		
+	}
+
+	.home-slider .container .slider-caption .slider-title {
+		line-height: 1.4;
+		font-size: 18px;
+		padding-bottom:10px;
+		text-shadow: 0px 2px 7px rgb(0 0 0 / 50%);
+	}
+	.home-slider .slider-caption .slider-description h3{
+		font-size: 51px !important;
+		line-height: 1.4;
+		font-weight: 800;
+		padding-bottom: 15px;
+		text-shadow: 0px 2px 7px rgb(0 0 0 / 50%);	
+	}
+
+
+	.home-slider .slider-btn {
+		color: #fff;
+	}
+}
+.home-slider .slider-caption .slider-description h3:after{
+	height:0px !important;
+}
+	.home-slider .container .slider-caption {
+	position: absolute;
+    top: 50%;
+    left:20%;
+    text-align: center;
+    transform: translate(0%, -50%);
+	}
+
+@media screen and (max-width: 1024px){
+	.home-slider .container .slider-caption {
+		position: absolute;
+		top: 50%;
+		left: 15%;
+		transform: translate(0%, -50%);
+	}
+}
+@media screen and (max-width: 768px){
+	.home-slider .container .slider-caption {    
+		min-width: 500px;
+	}
+	.home-slider .container .slider-caption .slider-title {
+		line-height: 1.4;
+		font-size: 16px;
+		padding-bottom:10px;
+	}
+	.home-slider .slider-caption .slider-description h3{
+		font-size: 34px !important;
+		line-height: 1.4;
+		padding-bottom: 15px;
+	}
+
+		.home-slider .slider-title{
+
+		display: none;
+	}
+
+	.toolbar-area{
+		display: none;
+	}
+
+}
+
+@media screen and (max-width: 500px){
+	.home-slider .container .slider-caption {  
+		min-width: 300px;    
+	}
+	.home-slider .container .slider-caption .slider-title {
+		line-height: 1.4;
+		font-size: 13px;
+		padding-bottom:10px;
+	}
+	.home-slider .slider-caption .slider-description h3{
+		font-size: 24px !important;
+		line-height: 1.4;
+		padding-bottom: 15px;
+	}
+
+
+
+}
+
+.full-width-header .tec-header .menu-area{
+
+	background: transparent !important;
+}
+
+.logo-area img{
+
+
+	padding-top: 16px;
+	padding-bottom: 16px;
+}
+.toolbar-contact,.toolbar-sl-share{
+
+	padding-top: 7px;
+}
+
+@media screen and (min-width: 992px){
+.main-navigation ul li:hover > ul, .main-navigation ul li.focus > ul {
+    background-color: #000 !important;
+}
+}
+
+.tec-services.style2 .service-wrap {
+    padding: 15px 15px 15px 15px;
+    box-shadow: 0px 14px 30px rgb(91 91 91 / 20%);
+}
+
+
+.sidebar-title h3:before,
+.sidebar .sidebar-widget h2:before
+{
+
+content: '';
+    position: absolute;
+    left: -10px;
+    top: 0;
+    height: 74%;
+    width: 3px;
+}
+
+
+.tec-footer .footer-bottom {
+    padding: 12px 0;
+}
+
+.sidebar .title{
+
+	font-size:19px;
+}
+
+.menu-toggle{
+
+	    margin-top: 0px;
+}
+
+.carousel-control-next, .carousel-control-prev{
+
+	opacity: 1;
+}
+
+@media screen and (min-width: 992px){
+.sticky .menu>.menu-item>a, .sticky .menu .page_item a {
+
+color: #fff !important;
+
+}
+}
+
+.full-width-header .toolbar-area .toolbar-contact ul li {
+    padding: 13px 4px 11px 0;
+    font-size: 16px;
+}
+
+@media screen and (min-width: 768px){
+.tec-services{
+
+	padding-top: 0;
+	padding-bottom: 0;
+	    margin-top: -95px;
+	    background: #fff;
+}
+
+.tec-services.style2 .service-wrap .image-part i{
+	transform: translate(-50%, -70%);
+}
+
+}
+.quote ul li a{
+
+	padding: 12px 25px; 
+	color: #fff;
+}
+
+.home-slider .slider-btn{
+
+	text-transform: capitalize;
+}
+
+.tec-blog.inner .blog-wrap .content-part:before{
+
+content: '';
+    position: absolute;
+    left: 0;
+    top: 30px;
+    height: calc(100% - 40px);
+    width: 2px;
+}
+
+@media screen and (max-width: 992px){
+.buttn{
+
+display: none;
+}
+
+.main-navigation #primary-menu {
+    text-align: left;
+    position: absolute;
+    width: 90%;
+    top: 110px;
+}}

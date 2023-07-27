@@ -1,0 +1,310 @@
+/*
+Theme Name: Teczilla Portfolio
+Theme URI: https://www.avadantathemes.com/product/teczilla-free/
+Template: teczilla
+Author: avadantathemes
+Author URI: https://www.avadantathemes.com/
+Description:  Teczilla portfolio is a child theme of teczilla wordpress theme perfect for portfolio, finance , portfolio etc.It is a Very creative, fully customizable and multipurpose theme.Any website you want to make with this theme will look beautiful and compaitable.It has built in typography also dynamic typography also has unlimited color optiopns in it.The theme suitable for saas application website, architecture, interior design, portfolio, portfolio, business, decoration, business, furniture, home decor, law firm, portfolio, insurance, app landing page, it solutions, shop ecommerce, marketing, gym, blog, travel portfolio, construction,  spa salons, industries, Beauty, photography, and many other websites compatible. Service option has icon and image options. Full Width responsive page layout. SEO optimized pages and fast speed loading.Compatible with gutenberg, elemnetor page builder WooCommerce, contact form 7, Jetpack, Google analytics and so many popular premium & free plugins nicely works with teczilla theme. For more theme information, check out Theme demo here at https://www.avadantathemes.com/demo/teczilla-portfolio/ and theme instructions here at https://www.avadantathemes.com/documentation/teczilla-free-theme/
+Version: 1.0.1
+Requires at least: 5.0
+Tested up to: 5.8
+Requires PHP: 5.6
+Text Domain: teczilla-portfolio
+Tags: one-column, two-columns, four-columns, right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, rtl-language-support, translation-ready, full-width-template, custom-logo, blog, e-commerce, post-formats, theme-options, threaded-comments,  portfolio
+License: GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html/ GPL v3.0 (or later)
+*/
+
+body{
+
+	font-family: 'Quicksand', sans-serif;
+}
+
+.full-width-header .toolbar-area{
+
+    background: transparent !important;
+  
+    width: 100%;
+    height: 80px;
+    line-height: 80px;
+    z-index: 9999;
+    border-bottom: 1px solid #b5b5b54d;
+    top: 20px;
+    position: absolute;
+    margin-bottom: 0;
+}
+
+
+.teczilla-menu-area{
+
+    background-color: transparent !important;
+}
+
+
+.tec-blog.inner .blog-wrap .content-part {
+
+    position: relative;
+}
+
+.tec-footer .text-right{
+
+    padding-top: 5px;
+}
+
+.full-width-header .toolbar-area .toolbar-sl-share ul li .tec-icons{
+
+color: #fff !important;
+
+}
+
+.full-width-header .toolbar-area .toolbar-contact ul li,
+.full-width-header .toolbar-area .toolbar-contact ul li a,
+.full-width-header .toolbar-area .toolbar-contact ul li i{
+
+    color: #fff;
+}
+
+.current_page_item {
+    background-color:transparent !important;
+	
+}
+.full-width-header .toolbar-area .toolbar-sl-share ul li a {
+    background-color: transparent !important;    
+    color: #fff !important;
+	font-size:22px;
+}
+
+.full-width-header .toolbar-area .toolbar-sl-share ul {
+    text-align: right;
+    margin-right: 0;
+}
+
+
+.full-width-header .teczilla-menu-area {
+    position: relative;
+    top: 40px;
+}
+
+
+.full-width-header{
+
+    background: #ebe8e4;
+}
+
+.full-width-header .tec-header {
+    z-index: 99;
+    margin: auto;
+}
+
+.sidebar{
+
+    padding: 26px 30px 10px;
+    background: #f5f5f5;
+
+}
+
+.menu>.menu-item>a, .menu .page_item a{
+
+	color: #fff !important;
+}
+
+.tec-header {
+
+        position: absolute;
+    width: 100%;
+    top: 0;
+   
+}
+
+@media screen and (min-width: 992px){
+.sticky {
+    background: #000 !important;
+    padding-top: 30px;
+}
+
+.tec-header {
+
+        position: absolute;
+    width: 100%;
+    top: 100px;
+   
+}
+
+}
+
+.btn-part a{
+
+    text-decoration: none !important;
+}
+
+.tec-blog.inner .blog-wrap .content-part .title {
+    text-align: left;
+    padding-bottom: 12px;
+}
+
+
+.teczilla-title{
+	margin-bottom: 0;
+}
+
+.sidebar-widget.widget_block h2{
+
+color: #1c1b1b;
+    font-size: 19px;
+    line-height: 29px;
+    font-weight: 600;
+    position: relative;
+    text-align: left;
+    text-transform: capitalize;
+    z-index: 1;
+    padding-bottom: 12px;
+}
+.tec-breadcrumbs.bg-1{
+
+    background-attachment: unset;
+}
+
+.menu-sticky{
+
+	box-shadow: none;
+        margin-top: -40px !important;
+}
+
+
+@media only screen and (max-width: 991px){
+.main-navigation {
+    padding: 0;
+margin-top: -38px;
+}
+
+.full-width-header .tec-agncy-stick {
+    padding-top: 0;
+}
+}
+
+.widget_tag_cloud .wp-block-tag-cloud a{
+
+    color: #fff;
+}
+
+.sidebar .widget_search{
+
+    padding-top: 16px;
+    padding-bottom: 20px;
+}
+
+.section-xx .blog-wrap {
+    margin-top: 46px;
+    border: none !important;
+    padding: 20px;
+}
+
+.footer-bottom #footer-menu{
+
+    display: inline-flex;
+}
+
+.footer-bottom #footer-menu li {
+    padding-left: 12px;
+}
+
+.logo-area{
+
+    padding-top: 16px;
+    padding-bottom: 3px;
+        text-align: center;
+}
+
+.wgs.comments{
+
+    width: 100%;
+}
+
+.sidebar-widget.widget_archive li:before, 
+.sidebar-widget.widget_categories li:before,
+ .sidebar-widget.widget_meta li:before, 
+ .sidebar-widget .wp-block-archives li:before, 
+ .sidebar-widget .wp-block-categories li:before {
+display: none;
+}
+
+.sidebar-widget.widget_archive li, 
+.sidebar-widget.widget_categories li,
+ .sidebar-widget.widget_meta li, 
+ .sidebar-widget .wp-block-archives li, 
+ .sidebar-widget .wp-block-categories li {
+    padding-left: 0;
+}
+
+.content-part .title a, .content-part .blog-meta a {
+    font-weight: 600;
+}
+
+.tec-portfolio-stick{
+
+    margin-top: -10px !important;
+}
+
+.buttn{
+
+    text-align: right;
+}
+
+@media only screen and (min-width: 991px){
+.logo-area.menu-area{
+
+    display: none;
+}
+}
+@media only screen and (max-width: 991px){
+.logo-area{
+
+    text-align: left;
+        margin-top: 45px;
+}
+/*.tec-portfolio-stick{
+
+    margin-top: -60px !important;
+}*/
+
+}
+
+.blog-wrap.shadow{
+box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 0%) !important;
+}
+
+.comment-respond .comment-form-comment textarea,
+.comment-respond .comment-form-author input,
+.comment-respond .comment-form-email input,
+.comment-respond .comment-form-url input {
+    height: auto;
+    width: 100%;
+    border: none;
+    line-height: normal !important;
+    background: #f3f3f3;
+    border-left: 1px solid #fd4a36;
+    box-shadow: 0 5px 15px 5px rgb(0 33 85 / 0%) !important;
+    color: #8d8d8d;
+    font-size: 12px;
+    padding: 11px;
+}
+
+.inner-title {
+    padding-top: 140px;
+   
+}
+
+.menu-toggle{
+
+    background: #fff;
+}
+
+.menu-toggle:hover, .menu-toggle:focus{
+
+    background: #fff;
+}
+
+.quote ul li a:focus-visible{
+
+    outline: 1px solid #fff !important;
+}

@@ -1,0 +1,633 @@
+[24-Jul-2023 08:47:24 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in C:\Users\Stef\Local Sites\portfolio\app\public\wp-admin\includes\class-theme-upgrader.php on line 160
+[24-Jul-2023 08:54:38 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 08:54:38 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 08:54:38 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 08:57:07 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 08:57:07 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 08:57:07 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:28:07 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:28:07 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:28:07 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:29:14 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:29:14 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:29:14 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:30:06 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:30:06 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:30:06 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:33:10 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:33:10 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:33:10 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:36:24 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:36:24 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:36:24 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:41:02 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:41:02 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:41:02 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:52:41 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:52:41 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:52:41 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:59:01 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:59:01 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 11:59:01 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:00:42 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:00:42 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:00:42 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:16:23 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:16:23 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:16:23 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:22:34 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:22:34 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:22:34 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:24:05 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:24:05 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:24:05 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:24:39 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:24:39 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:24:39 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:26:52 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:26:52 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:26:52 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:35:15 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:35:15 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:35:15 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:52:45 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:52:45 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:52:45 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 12:53:44 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_title_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:53:44 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_title_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:53:45 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_title_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:53:46 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_title_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:53:47 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_title_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:53:48 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_title_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:53:48 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_title_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:53:49 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_title_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:54:30 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:54:44 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:54:45 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:54:45 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:54:50 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:54:51 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:54:51 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:54:52 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:56:13 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:56:14 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:56:14 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:56:39 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:56:41 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:56:43 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:56:44 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:56:44 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:56:51 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:56:51 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:56:53 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:56:53 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:56:59 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:57:00 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:57:01 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:57:01 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:57:02 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:57:02 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:57:03 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:57:25 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:57:26 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:57:27 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:57:32 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:59:55 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 12:59:56 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 13:01:14 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 13:01:19 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 13:03:00 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 13:03:02 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 13:03:03 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 13:03:26 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 13:03:27 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 13:17:57 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_testimonial_section_discription_render_callback" not found or invalid function name in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Stef\Local Sites\portfolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Stef\\L...')
+#6 C:\Users\Stef\Local Sites\portfolio\app\public\index.php(17): require('C:\\Users\\Stef\\L...')
+#7 {main}
+  thrown in C:\Users\Stef\Local Sites\portfolio\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[24-Jul-2023 13:19:07 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 13:19:07 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 13:19:07 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 13:24:24 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 13:24:24 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 13:24:24 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 20:20:25 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 20:20:25 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 20:20:25 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 20:33:21 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 20:33:21 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 20:33:21 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 20:39:12 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 20:39:12 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[24-Jul-2023 20:39:12 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 07:04:35 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 07:04:35 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 07:04:35 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 07:06:15 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 07:06:15 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 07:06:15 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 07:11:18 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 07:11:18 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 07:11:18 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 07:33:39 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 07:33:39 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 07:33:39 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 07:36:46 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 07:36:46 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 07:36:46 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 08:14:32 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 08:14:32 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 08:14:32 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 11:56:03 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 11:56:03 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[25-Jul-2023 11:56:03 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[27-Jul-2023 08:47:48 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[27-Jul-2023 08:47:48 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
+[27-Jul-2023 08:47:48 UTC] PHP Warning:  Undefined variable $class in C:\Users\Stef\Local Sites\portfolio\app\public\wp-content\themes\teczilla\library\customizer-repeater\class\customizer-repeater-control.php on line 567
