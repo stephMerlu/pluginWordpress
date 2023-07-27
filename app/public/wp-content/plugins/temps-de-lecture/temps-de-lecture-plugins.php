@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Temps de Lecture
-Plugin URI: Votre URL du plugin (facultatif)
+Plugin URI: https://github.com/stephMerlu/pluginWordpress
 Description: Plugin pour calculer et afficher le temps de lecture des articles.
 Version: 1.0
 Author: Merluzzo Stéphanie
-Author URI: Votre site web (facultatif)
+Author URI: https://github.com/stephMerlu
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
